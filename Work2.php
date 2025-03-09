@@ -13,5 +13,3 @@ function trimaxnum($arr) {
  
 $numbers = [3, 2, 2, 1];
 echo "Третье максимальное число: " . trimaxnum($numbers);
-
-?>
